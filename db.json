@@ -1,0 +1,33 @@
+{
+  "tasks": [
+    {
+      "text": "Appointment with Doctor",
+      "day": "23rd June, 2022",
+      "reminder": true,
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "password": "Password123",
+      "dateOfBirth": "December 20, 1993",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "name": "Sarah Doe",
+      "password": "Passwortfg",
+      "dateOfBirth": "Febuary 10, 1998",
+      "isAdmin": false
+    },
+    {
+      "id": 3,
+      "name": "James Sarrahh",
+      "dateOfBirth": "May 29, 1992",
+      "password": "f$5kju",
+      "isAdmin": false
+    }
+  ]
+}
